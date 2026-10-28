@@ -1,48 +1,48 @@
-ï»¿# ğŸ¤ ONG Tecer EsperanÃ§a
+# ?? ONG Tecer Esperança
 
-> Transformando peÃ§as paradas em abraÃ§os reais e dignidade para famÃ­lias em situaÃ§Ã£o de vulnerabilidade.
+> Transformando peças paradas em abraços reais e dignidade para famílias em situação de vulnerabilidade.
 
-Este repositÃ³rio contÃ©m o site institucional completo e responsivo da **ONG Tecer EsperanÃ§a**, desenvolvido com foco em alta performance, acessibilidade e facilidade para captaÃ§Ã£o de doaÃ§Ãµes (roupas, agasalhos e contribuiÃ§Ãµes via PIX).
+Este repositório contém o site institucional completo e responsivo da **ONG Tecer Esperança**, desenvolvido com foco em alta performance, acessibilidade e facilidade para captação de doações (roupas, agasalhos e contribuições via PIX).
 
 ---
 
-## ğŸŒŸ Funcionalidades
+## ?? Funcionalidades
 
 - **Design Humanizado & Moderno:** Tipografia acolhedora (*Playfair Display* + *Plus Jakarta Sans*), paleta terrosa e elementos visuais de alto impacto.
-- **Calculadora de Impacto Interativa:** Demonstra em tempo real quantas pessoas sÃ£o aquecidas por tipo de peÃ§a doada.
-- **DoaÃ§Ã£o RÃ¡pida via PIX:** Gerador de QR Code PIX dinÃ¢mico com botÃ£o de "Copiar CÃ³digo".
-- **Localizador de Postos de Coleta:** Filtro por regiÃ£o e busca rÃ¡pida com horÃ¡rios e rotas no Google Maps.
-- **RelatÃ³rio de TransparÃªncia:** MÃ©tricas de arrecadaÃ§Ã£o, famÃ­lias atendidas e prestaÃ§Ã£o de contas.
-- **FormulÃ¡rio de Voluntariado e Parcerias:** InscriÃ§Ã£o rÃ¡pida para empresas e voluntÃ¡rios.
-- **Canal Direto via WhatsApp:** Links diretos e botÃ£o flutuante para contato com a equipe.
+- **Calculadora de Impacto Interativa:** Demonstra em tempo real quantas pessoas são aquecidas por tipo de peça doada.
+- **Doação Rápida via PIX:** Gerador de QR Code PIX dinâmico com botão de "Copiar Código".
+- **Localizador de Postos de Coleta:** Filtro por região e busca rápida com horários e rotas no Google Maps.
+- **Relatório de Transparência:** Métricas de arrecadação, famílias atendidas e prestação de contas.
+- **Formulário de Voluntariado e Parcerias:** Inscrição rápida para empresas e voluntários.
+- **Canal Direto via WhatsApp:** Links diretos e botão flutuante para contato com a equipe.
 
 ---
 
-## ğŸ“ Estrutura do Projeto
+## ?? Estrutura do Projeto
 
 ```text
-â”œâ”€â”€ index.html       # Estrutura semÃ¢ntica HTML5 completa
-â”œâ”€â”€ css/
-â”‚   â””â”€â”€ style.css    # Sistema de design tokens, animaÃ§Ãµes e responsividade
-â”œâ”€â”€ js/
-â”‚   â””â”€â”€ main.js      # LÃ³gica de interatividade, filtros, PIX e modais
-â””â”€â”€ assets/          # Imagens e Ã­cones
++-- index.html       # Estrutura semântica HTML5 completa
++-- css/
+¦   +-- style.css    # Sistema de design tokens, animações e responsividade
++-- js/
+¦   +-- main.js      # Lógica de interatividade, filtros, PIX e modais
++-- assets/          # Imagens e ícones
 ```
 
 ---
 
-## ğŸš€ Como Executar Localmente
+## ?? Como Executar Localmente
 
-Como o projeto Ã© construÃ­do em HTML, CSS e JavaScript puros (Vanilla), nÃ£o Ã© necessÃ¡rio instalar dependÃªncias complexas:
+Como o projeto é construído em HTML, CSS e JavaScript puros (Vanilla), não é necessário instalar dependências complexas:
 
-1. Clone o repositÃ³rio ou baixe os arquivos:
+1. Clone o repositório ou baixe os arquivos:
    ```bash
-   git clone https://github.com/peaga19/ong-tecer-esperanca.git
+   git clone https://github.com/peaga19/interface-ong.git
    ```
 2. Abra o arquivo `index.html` em qualquer navegador web moderno.
 
 ---
 
-## ğŸ“„ LicenÃ§a
+## ?? Licença
 
-DistribuÃ­do sob a licenÃ§a MIT.
+Distribuído sob a licença MIT.
